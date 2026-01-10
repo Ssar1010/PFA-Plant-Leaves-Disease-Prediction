@@ -1,0 +1,14 @@
+                          precision    recall  f1-score   support
+
+      Apple___Apple_scab     0.9831    0.9206    0.9508        63
+       Apple___Black_rot     0.9538    0.9841    0.9688        63
+Apple___Cedar_apple_rust     0.9655    1.0000    0.9825        28
+         Apple___healthy     0.9759    0.9818    0.9789       165
+  Peach___Bacterial_spot     1.0000    0.9913    0.9957       231
+         Peach___healthy     0.9487    1.0000    0.9737        37
+Strawberry___Leaf_scorch     1.0000    1.0000    1.0000       112
+    Strawberry___healthy     1.0000    1.0000    1.0000        46
+
+                accuracy                         0.9852       745
+               macro avg     0.9784    0.9847    0.9813       745
+            weighted avg     0.9855    0.9852    0.9852       745
